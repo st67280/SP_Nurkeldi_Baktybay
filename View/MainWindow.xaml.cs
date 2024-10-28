@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SP_Nurkeldi_Baktybay
+namespace SP_Nurkeldi_Baktybay.View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
